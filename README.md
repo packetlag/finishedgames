@@ -5,4 +5,4 @@ Parking a meager list of games I beat.
 
 - Kid Icarus (1986)
   - Nintendo Switch
-  - 20220109
+  - 20220109 (started 2021)
