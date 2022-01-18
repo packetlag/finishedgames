@@ -6,3 +6,7 @@ Parking a meager list of games I beat.
 - Kid Icarus (1986)
   - Nintendo Switch
   - 20220109 (started 2021)
+
+- Super Metroid (1994)
+  - Nintendo Switch
+  - 20220112 (started 2021)
